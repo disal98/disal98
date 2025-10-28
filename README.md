@@ -13,19 +13,26 @@
 ---
 
 ### My Status
-<p align="left">
-  <ul>
-    <li>🌱 I’m currently learning <b>C#, ASP.Net, JAVA, SQL, HTML, CSS</b></li>
-    <li>🤝 I’m Undergraduate <b>at Cardiff Metropolitan</b></li>
-    <li>👨‍💻 All of my projects are available at <a href="https://github.com/disal98">Github</a></li>
-    <li>⚡ Fun fact <b>Call me as Disal</b></li>
-  </ul>
-</p>
 
-<!-- Right Side Image -->
-<p align="right">
-  <img src="https://github.com/user-attachments/assets/your-yellow-image-id.png" alt="Tech Illustration" width="400"/>
-</p>
+<div style="display: flex; align-items: center; justify-content: space-between; background-color: #0d1117; color: white; padding: 20px; border-radius: 10px;">
+
+  <!-- Left Side: Text -->
+  <div style="flex: 1; line-height: 1.8; font-family: Arial, sans-serif;">
+    <ul>
+      <li>🌱 I’m currently learning <b>C#, ASP.Net, JAVA, SQL, HTML, CSS</b></li>
+      <li>🤝 I’m an Undergraduate <b>at Cardiff Metropolitan</b></li>
+      <li>👨‍💻 All of my projects are available at <a href="https://github.com/disal98" style="color: #58a6ff;">Github</a></li>
+      <li>⚡ Fun fact <b>Call me as Disal</b></li>
+    </ul>
+  </div>
+
+  <!-- Right Side: Image -->
+  <div style="flex: 1; text-align: right;">
+    <img src="https://github.com/disal98/disal98/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif?raw=true"
+         alt="Tech Illustration" width="380"
+         style="border-radius: 10px;"/>
+  </div>
+</div>
 
 ---
 
