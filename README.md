@@ -1,6 +1,6 @@
 <!-- Profile Image Above Name -->
 <p align="center">
-  <img src="https://github.com/user-attachments/files/00000000c82461f585707cf5ddaeaef6.png" alt="Profile Banner" width="250"/>
+  <img src="https://github.com/disal98/disal98/blob/main/abstract-polygonal-hacker-laptop-on-600nw-2434637651.webp?raw=true" alt="Profile Banner" width="250"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm DISAL THINUWAN ABEGUNASEKARA</h1>
